@@ -5,7 +5,7 @@ import android.graphics.Color
 import android.graphics.Path
 import android.graphics.drawable.Drawable
 import android.graphics.drawable.GradientDrawable
-import android.support.v4.content.ContextCompat
+import androidx.core.content.ContextCompat
 import android.view.Gravity
 import top.defaults.drawabletoolbox.DrawableBuilder
 import top.defaults.drawabletoolbox.LayerDrawableBuilder

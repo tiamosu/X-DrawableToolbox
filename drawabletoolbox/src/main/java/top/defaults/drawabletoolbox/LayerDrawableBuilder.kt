@@ -3,8 +3,8 @@ package top.defaults.drawabletoolbox
 import android.graphics.drawable.Drawable
 import android.graphics.drawable.LayerDrawable
 import android.os.Build
-import android.support.annotation.RequiresApi
 import android.view.Gravity
+import androidx.annotation.RequiresApi
 import java.util.ArrayList
 
 class LayerDrawableBuilder {

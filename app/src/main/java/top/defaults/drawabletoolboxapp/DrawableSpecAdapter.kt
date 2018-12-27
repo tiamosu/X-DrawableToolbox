@@ -3,12 +3,12 @@ package top.defaults.drawabletoolboxapp
 import android.animation.ObjectAnimator
 import android.animation.ValueAnimator
 import android.graphics.Color
-import android.support.v7.widget.RecyclerView
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.view.animation.LinearInterpolator
 import android.widget.*
+import androidx.recyclerview.widget.RecyclerView
 import top.defaults.drawabletoolboxapp.spec.DrawableSpec
 import top.defaults.drawabletoolboxapp.spec.ImageViewSourceDrawableSpec
 import top.defaults.drawabletoolboxapp.spec.SegmentedControlDrawableSpec
