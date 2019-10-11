@@ -26,12 +26,10 @@
 
 ```
 dependencies {
-    implementation 'com.github.duanhong169:drawabletoolbox:${latestVersion}'
+    implementation 'me.xia:x-drawabletoolbox:1.0.0'
     ...
 }
 ```
-
-> 将上方的`${latestVersion}`替换为当前最新的版本号，最新版本号参见[releases](https://github.com/duanhong169/DrawableToolbox/releases)。
 
 ## 使用说明
 

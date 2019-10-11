@@ -26,12 +26,10 @@ The missing DrawableToolbox for Android. Create drawables programmatically and g
 
 ```
 dependencies {
-    implementation 'com.github.duanhong169:drawabletoolbox:${latestVersion}'
+    implementation 'me.xia:x-drawabletoolbox:1.0.0'
     ...
 }
 ```
-
-> Replace `${latestVersion}` with the latest version code. See [releases](https://github.com/duanhong169/DrawableToolbox/releases).
 
 ## Usage
 
